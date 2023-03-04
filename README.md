@@ -1,4 +1,5 @@
-```pyclass Profile:
+```py
+class Profile:
     def __init__(self, username, name, location, telegram, discord, bio, website, skills, learning, interests, projects):
         self.username = username
         self.name = name
