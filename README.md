@@ -1,3 +1,3 @@
 **Contact**:
 - **Telegram**: t.me/aithedev
-- **Discord**: ai#4444 (1078432806646054922)
+- **Discord**: ai#4444 (1097683941600796712)
