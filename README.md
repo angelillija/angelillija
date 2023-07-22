@@ -1,1 +1,1 @@
-https://t.me/angelillija
+No contact
