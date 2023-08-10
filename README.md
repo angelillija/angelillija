@@ -1,3 +1,3 @@
 ### `👨‍💻` Contact
 - **Telegram**: @angelillija
-- **Discord**: @angel.illija
+- **Discord**: @angelillija
