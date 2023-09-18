@@ -1,3 +1,3 @@
 ### `👨‍💻` Contact
-- **Telegram**: @angell
+- **Telegram**: [@angell](https://t.me/angell)
 - **Discord**: @angelillija
